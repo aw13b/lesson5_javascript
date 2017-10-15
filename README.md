@@ -4,17 +4,16 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+10/15/17
 
 ### Student Name:  
-(First and Last Name)
+Andre Weir
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Tax Calculator
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://aw13b.github.io/lesson5_javascript/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
